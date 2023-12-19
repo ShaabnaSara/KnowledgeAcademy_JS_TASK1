@@ -1,0 +1,14 @@
+
+
+/* Part 1*/
+.demo{
+    border: 3px solid red;
+}
+
+/* Part 2*/
+.vip {
+    border: 2px solid #eee;
+    text-transform: uppercase;
+    font-size: 18px;
+    color: red;
+}
